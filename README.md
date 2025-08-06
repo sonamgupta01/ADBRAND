@@ -85,8 +85,8 @@ adsuitex/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd ADmyBRAND/adsuitex
+   git clone https://github.com/sonamgupta01/ADBRAND.git
+   cd ADBRAND
    ```
 
 2. **Install dependencies**
@@ -324,7 +324,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - **Documentation**: Check this README and inline comments
 - **Issues**: Open a GitHub issue for bugs
 - **Discussions**: Use GitHub Discussions for questions
-- **Email**: contact@admybrand.com
+- **Email**: sonam98450@gmail.com
 
 ---
 
