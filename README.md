@@ -226,15 +226,7 @@ export const fadeInUp = {
 - **Time to Interactive**: < 3.0s
 - **Cumulative Layout Shift**: < 0.1
 
-## 🔐 Environment Variables
 
-Create a `.env.local` file in the root directory:
-
-```env
-NEXT_PUBLIC_SITE_URL=http://localhost:3000
-NEXT_PUBLIC_CONTACT_EMAIL=contact@admybrand.com
-NEXT_PUBLIC_ANALYTICS_ID=your-analytics-id
-```
 
 ## 🚀 Deployment
 
