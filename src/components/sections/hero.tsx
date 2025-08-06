@@ -6,6 +6,7 @@ import { motion } from 'framer-motion';
 import { fadeIn, staggerContainer } from '@/lib/animations';
 import Image from 'next/image';
 
+
 const Hero = () => {
   return (
     <div className="relative overflow-hidden">
@@ -92,6 +93,7 @@ const Hero = () => {
                   controls
                   className="w-full rounded-2xl shadow-lg"
                   preload="metadata"
+
                 >
                   <source src="/images/demo-video-placeholder.mp4" type="video/mp4" />
                   Your browser does not support the video tag.
